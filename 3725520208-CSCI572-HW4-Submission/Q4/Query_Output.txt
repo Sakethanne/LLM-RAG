@@ -1,0 +1,33 @@
+## User query: What is SQL ?
+
+Retrieved content: 6. Crud Operations in SQL
+
+7. Important SQL Keywords
+
+8. Clauses in SQL
+
+9. SQL Operators
+
+10. Keys in SQL
+
+11. Functions in SQL
+
+12. Joins in SQL
+
+13. Triggers in SQL
+
+14. SQL Stored Procedures
+
+15. SQL Injection
+
+Page 1
+
+© Copyright by Interviewbit
+
+Let's get Started
+
+Introduction: What is SQL?
+
+## To get introduced to SQL, we first need to know about Databases and Database Management Systems(DBMS). Data is basically a collection of facts related to some object. A Database is a collection of small units of data arranged in a systematic manner. A Relational Database Management System is a collection of tools that allows the users to manipulate, organize and visualize the contents of a database while following some standard rules that facilitate fast response between the database and the user side.
+
+metadata: {'source': 'example_data/SQL Cheat Sheet.pdf'}

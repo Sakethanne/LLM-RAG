@@ -1,0 +1,52 @@
+[
+  {
+      "Author": "George Orwell",
+      "Book": "1984",
+      "Summary": "A dystopian novel set in a totalitarian regime, where the government controls every aspect of people's lives."
+  },
+  {
+      "Author": "Jane Austen",
+      "Book": "Pride and Prejudice",
+      "Summary": "A classic romance novel depicting the societal norms and prejudices of 19th-century England."
+  },
+  {
+      "Author": "F. Scott Fitzgerald",
+      "Book": "The Great Gatsby",
+      "Summary": "A story set in the Jazz Age, exploring themes of decadence, idealism, and the American Dream."
+  },
+  {
+      "Author": "Leo Tolstoy",
+      "Book": "War and Peace",
+      "Summary": "An epic novel set during the Napoleonic Wars, exploring themes of love, war, and the human condition."
+  },
+  {
+      "Author": "J.K. Rowling",
+      "Book": "Harry Potter and the Philosopher's Stone",
+      "Summary": "The first book in the Harry Potter series, following the journey of a young wizard as he discovers his magical heritage."
+  },
+  {
+      "Author": "Mark Twain",
+      "Book": "The Adventures of Huckleberry Finn",
+      "Summary": "A coming-of-age novel set in the antebellum South, exploring themes of race, freedom, and friendship."
+  },
+  {
+      "Author": "Emily Bronte",
+      "Book": "Wuthering Heights",
+      "Summary": "A Gothic novel set on the Yorkshire Moors, depicting a tragic love story between Catherine Earnshaw and Heathcliff."
+  },
+  {
+      "Author": "Hermann Hesse",
+      "Book": "Siddhartha",
+      "Summary": "A philosophical novel following the spiritual journey of Siddhartha, a young man in ancient India."
+  },
+  {
+      "Author": "Ernest Hemingway",
+      "Book": "The Old Man and the Sea",
+      "Summary": "A novella about an aging fisherman's struggle with a giant marlin in the Gulf Stream."
+  },
+  {
+      "Author": "Gabriel García Márquez",
+      "Book": "One Hundred Years of Solitude",
+      "Summary": "A magical realist novel depicting the rise and fall of the Buendía family in the fictional town of Macondo."
+  }
+]
